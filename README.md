@@ -1,6 +1,7 @@
 # HOW TO RUN
 
-git clone |this repository|
+```git clone |this repository|```
+
 cd |this repository|
 
 ## MacOS
