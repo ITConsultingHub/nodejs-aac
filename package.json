@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-helloworld",
+  "version": "1.0.0",
+  "description": "NodeJS HelloWorld Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anoop Madhavan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
