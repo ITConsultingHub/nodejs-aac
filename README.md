@@ -1,4 +1,4 @@
-# HOW TO RUN test1
+# HOW TO RUN test2
 
 ```git clone |this repository|```
 
